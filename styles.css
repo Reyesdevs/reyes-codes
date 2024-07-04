@@ -1,0 +1,19 @@
+H1{
+ color: black;
+ font-size: 25px;
+}
+#img{
+ size: 100px;
+ background-color: aquamarine;
+}
+div{
+ text-align: center;
+}
+#body{
+ background-color: bisque;
+}
+.color{
+text-align: left;
+color: black;}
+#contact{
+text-align: right;}
